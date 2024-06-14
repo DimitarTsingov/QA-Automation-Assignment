@@ -3,6 +3,7 @@ This project contains an automation script using JavaScript with Playwright to v
 ## Project Setup
 
 To set up the project locally, follow these steps:
-1. Clone the repository
-2. Install dependencies
-3. Run the automation script
+1. Clone the repository;
+2. Install dependencies;
+3. The automation script is located in this folder: "tests" and has the following name: "assignment.spec.js";
+5. Run the automation script
